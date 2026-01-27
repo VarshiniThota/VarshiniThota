@@ -1,16 +1,74 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Varshini Thota</h1>
 
-<!--
-**VarshiniThota/VarshiniThota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+A passionate backend developer skilled in Python & Django,<br/>
+exploring cloud computing and DevOps 🚀
+</h2>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🙋‍♀️ About Me
+
+- 💻 Backend Developer focused on **Python & Django**
+- ☁️ Learning **AWS Cloud** and **DevOps fundamentals**
+- 🎯 Preparing for placements with hands-on projects
+- 🌱 Believe in consistency and continuous learning
+
+---
+
+## 🔗 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/varshini-thota" target="_blank">
+  <img align="center" 
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+       alt="LinkedIn" height="35" width="45" />
+</a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
+</p>
+
+---
+
+## 📂 Projects (Coming Soon 🚧)
+
+🚀 I’m currently working on:
+- Django-based backend projects
+- AWS cloud deployment projects
+- Real-world problem-solving applications  
+
+📌 **Projects will be added soon — stay tuned!**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=varshinithota&show_icons=true&locale=en&layout=compact" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=varshinithota" height="180" />
+</p>
+
+---
+
+⭐ *Thanks for visiting my profile!*  
+Let’s build and learn together 💙
