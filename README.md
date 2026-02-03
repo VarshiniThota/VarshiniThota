@@ -58,14 +58,9 @@ exploring cloud computing and DevOps 🚀
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=VarshiniThota&show_icons=true&locale=en&layout=compact" height="180"/>
-</p>
-
-<img src="https://streak-stats.demolab.com?user=VarshiniThota&theme=default&hide_border=true&cache_seconds=21600" height="180"/>
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VarshiniThota)
 
 
 ---
