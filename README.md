@@ -61,12 +61,13 @@ exploring cloud computing and DevOps 🚀
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=varshinithota&show_icons=true&locale=en&layout=compact" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=VarshiniThota&show_icons=true&locale=en&layout=compact" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=varshinithota" height="180" />
+  <img src="https://streak-stats.demolab.com?user=VarshiniThota" height="180"/>
 </p>
+
 
 ---
 
