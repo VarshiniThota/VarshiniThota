@@ -54,6 +54,10 @@ exploring cloud computing and DevOps 🚀
  4. AWS based Support Ticket Analyser(Currently working)
  5. TaskMate
  6. Weather detector
+
+---
+
+---
 🚀 I’m currently working on:
 - Django-based backend projects
 - AWS cloud deployment projects
