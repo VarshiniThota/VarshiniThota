@@ -48,13 +48,17 @@ exploring cloud computing and DevOps 🚀
 ---
 
 ## 📂 Projects (Coming Soon 🚧)
-
+ 1. HireXtract(AI Resume Screening System)
+ 2. Digitized Invoice Processing System
+ 3. Multilingual Image Text Detection & Translation
+ 4. AWS based Support Ticket Analyser(Currently working)
+ 5. TaskMate
+ 6. Weather detector
 🚀 I’m currently working on:
 - Django-based backend projects
 - AWS cloud deployment projects
 - Real-world problem-solving applications  
 
-📌 **Projects will be added soon — stay tuned!**
 
 ---
 
