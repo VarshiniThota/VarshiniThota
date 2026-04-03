@@ -56,8 +56,6 @@ exploring cloud computing and DevOps 🚀
  6. Weather detector
 
 ---
-
----
 🚀 I’m currently working on:
 - Django-based backend projects
 - AWS cloud deployment projects
@@ -74,4 +72,4 @@ exploring cloud computing and DevOps 🚀
 ---
 
 ⭐ *Thanks for visiting my profile!*  
-Let’s build and learn together 💙
+Let’s build and learn together !!
