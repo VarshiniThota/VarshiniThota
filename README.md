@@ -48,7 +48,7 @@ exploring cloud computing and DevOps 🚀
 ---
 
 ## 📂 Projects 
-## 📂 Projects
+
 
 1. [HireXtract (AI Resume Screening System)](https://github.com/VarshiniThota/HireXtract_.git)
 
@@ -56,11 +56,9 @@ exploring cloud computing and DevOps 🚀
 
 3. [Multilingual Image Text Detection & Translation](https://github.com/VarshiniThota/aws_image_text-detect-translation.git)
 
-4. [AWS Based Support Ticket Analyzer(Currently Working)]
+4. [TaskMate](https://github.com/VarshiniThota/TaskMate.git)
 
-5. [TaskMate](https://github.com/VarshiniThota/TaskMate.git)
-
-6. [Weather Detector](https://github.com/VarshiniThota/weatherdetect.git)
+5. [Weather Detector](https://github.com/VarshiniThota/weatherdetect.git)
 
 ---
 🚀 I’m currently working on:
