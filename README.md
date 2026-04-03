@@ -47,13 +47,20 @@ exploring cloud computing and DevOps 🚀
 
 ---
 
-## 📂 Projects (Coming Soon 🚧)
- 1. HireXtract(AI Resume Screening System)
- 2. Digitized Invoice Processing System
- 3. Multilingual Image Text Detection & Translation
- 4. AWS based Support Ticket Analyser(Currently working)
- 5. TaskMate
- 6. Weather detector
+## 📂 Projects 
+## 📂 Projects
+
+1. [HireXtract (AI Resume Screening System)](https://github.com/VarshiniThota/HireXtract_.git)
+
+2. [Digitized Invoice Processing System](https://github.com/VarshiniThota/Invoice_Digitization_System.git)
+
+3. [Multilingual Image Text Detection & Translation](https://github.com/VarshiniThota/aws_image_text-detect-translation.git)
+
+4. [AWS Based Support Ticket Analyzer(Currently Working)]
+
+5. [TaskMate](https://github.com/VarshiniThota/TaskMate.git)
+
+6. [Weather Detector](https://github.com/VarshiniThota/weatherdetect.git)
 
 ---
 🚀 I’m currently working on:
