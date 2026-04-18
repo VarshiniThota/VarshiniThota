@@ -54,11 +54,13 @@ exploring cloud computing and DevOps 🚀
 
 2. [Digitized Invoice Processing System](https://github.com/VarshiniThota/Invoice_Digitization_System.git)
 
-3. [Multilingual Image Text Detection & Translation](https://github.com/VarshiniThota/aws_image_text-detect-translation.git)
+3. [Cloud based vendor management System](https://github.com/VarshiniThota/Cloud_based_Vendor_Management_System.git)
 
-4. [TaskMate](https://github.com/VarshiniThota/TaskMate.git)
+4. [Multilingual Image Text Detection & Translation](https://github.com/VarshiniThota/aws_image_text-detect-translation.git)
 
-5. [Weather Detector](https://github.com/VarshiniThota/weatherdetect.git)
+5. [TaskMate](https://github.com/VarshiniThota/TaskMate.git)
+
+6. [Weather Detector](https://github.com/VarshiniThota/weatherdetect.git)
 
 ---
 🚀 I’m currently working on:
